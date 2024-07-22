@@ -1,1 +1,1 @@
-# NMT_For_Maghrebi_dialects-MSA
+# NMT For Maghrebi dialects and MSA
