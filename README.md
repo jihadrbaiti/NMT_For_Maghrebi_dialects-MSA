@@ -1,7 +1,8 @@
 # NMT For Maghrebi dialects and MSA
 <h1> requirements </h1>
-python 3.8.13
+
 <ol>
+<ul> python 3.8.13 <br/></ul>
 <ul>pip3 install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html <br/></ul>
 <ul>pip install torchtext==0.10.0 <br/></ul>
 <ul>pip install spacy==3.3.1 <br/></ul>
