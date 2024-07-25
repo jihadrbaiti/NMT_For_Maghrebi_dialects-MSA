@@ -1,5 +1,5 @@
 # NMT For Maghrebi dialects and MSA
-<h1> requirements </h1>
+<h1> Requirements </h1>
 
 <ol>
 <ul> python 3.8.13 <br/></ul>
