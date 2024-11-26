@@ -45,7 +45,7 @@ Training the Model (our proposed approach for MSA to Maghrebi dialects)
 ```python
 python train_inverse.py
 ```
-Same for train_enc.py, train_enc_inverse.py, train_dec.py, train_dec_inverse.py.
+**Same for train_enc.py, train_enc_inverse.py, train_dec.py, train_dec_inverse.py.**
 
 ### Generation
 
