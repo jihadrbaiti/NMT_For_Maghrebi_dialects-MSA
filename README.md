@@ -1,7 +1,8 @@
 # NMT For Maghrebi dialects and MSA bidirectional translation
 
 ### Dataset
-- The dataset is sourced from: [Maghrebi dialects](https://github.com/laith85/Transformer_NMT_AD/blob/main/North_Africa%20_Dialect.txt) and [MSA](https://github.com/laith85/Transformer_NMT_AD/blob/main/MSA_For_North_Africa_Dialects.txt
+- The dataset is sourced from: [Maghrebi dialects](https://github.com/laith85/Transformer_NMT_AD/blob/main/North_Africa%20_Dialect.txt) and
+  [MSA](https://github.com/laith85/Transformer_NMT_AD/blob/main/MSA_For_North_Africa_Dialects.txt
 
 ### Installing requirements:
 -->
