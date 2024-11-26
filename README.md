@@ -2,7 +2,7 @@
 
 ### Dataset
 - The dataset is sourced from: [Maghrebi dialects](https://github.com/laith85/Transformer_NMT_AD/blob/main/North_Africa%20_Dialect.txt) and
-  [MSA](https://github.com/laith85/Transformer_NMT_AD/blob/main/MSA_For_North_Africa_Dialects.txt).
+  [MSA](https://github.com/laith85/Transformer_NMT_AD/blob/main/MSA_For_North_Africa_Dialects.txt). The dataset should be split randomly into training, validation, and test sets.
 
 ### Installing requirements:
 1) Create an anaconda environment with Python version 3.8.13
@@ -47,6 +47,6 @@ python generate.py
 
 - For MSA to Maghrebi dialects
 ```python
-python generate.py
+python generate_inverse.py
 ```
 
