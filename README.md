@@ -17,7 +17,8 @@
 </ol>
 -->
 ```
-Create an anaconda environnement with Python version 3.8.13
+Create an anaconda environment with Python version 3.8.13
+
 conda create -n nmt_ar python=3.8.13
 ```
 
