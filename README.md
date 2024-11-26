@@ -34,12 +34,12 @@ Install the requirements:
 ```python
 pip install -r requirements.txt
 ```
+### Training
 Training the Model (our proposed approach for Maghrebi dialects to MSA)
 
 ```python
 python train.py
 ```
-### Training
 Training the Model (our proposed approach for MSA to Maghrebi dialects)
 
 ```python
