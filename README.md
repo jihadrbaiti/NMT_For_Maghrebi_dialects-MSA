@@ -27,14 +27,14 @@ pip install -r requirements.txt
 - Training the Model (our proposed approach for Maghrebi dialects to MSA)
 
 ```python
-python train.py
+python src/train.py
 ```
 - Training the Model (our proposed approach for MSA to Maghrebi dialects)
 
 ```python
-python train_inverse.py
+python src/train_inverse.py
 ```
-**Same for train_enc.py, train_enc_inverse.py, train_dec.py, train_dec_inverse.py.**
+**Same for src/train_enc.py, src/train_enc_inverse.py, src/train_dec.py, src/train_dec_inverse.py.**
 
 ### Generation:
 
@@ -42,11 +42,11 @@ Generate translation based on the saved models using generate.py file using gree
 
 - For Maghrebi dialects to MSA
 ```python
-python generate.py
+python src/generate.py
 ```
 
 - For MSA to Maghrebi dialects
 ```python
-python generate_inverse.py
+python src/generate_inverse.py
 ```
 
