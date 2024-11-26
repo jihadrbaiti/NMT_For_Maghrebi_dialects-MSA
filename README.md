@@ -34,7 +34,7 @@ python src/train.py
 ```python
 python src/train_inverse.py
 ```
-**Same for src/train_enc.py, src/train_enc_inverse.py, src/train_dec.py, src/train_dec_inverse.py.**
+**Same for src/train_enc.py, src/train_enc_inverse.py, src/train_dec.py, and src/train_dec_inverse.py.**
 
 ### Generation:
 
