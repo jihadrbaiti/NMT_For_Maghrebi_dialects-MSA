@@ -32,9 +32,9 @@ python src/train.py
 - Training the Model (our proposed approach for MSA to Maghrebi dialects)
 
 ```python
-python src/train_inverse.py
+python src\train_inverse.py
 ```
-**Same for src/train_enc.py, src/train_enc_inverse.py, src/train_dec.py, src/train_dec_inverse.py.**
+**Same for src\train_enc.py, src\train_enc_inverse.py, src\train_dec.py, src\train_dec_inverse.py.**
 
 ### Generation:
 
@@ -42,11 +42,11 @@ Generate translation based on the saved models using generate.py file using gree
 
 - For Maghrebi dialects to MSA
 ```python
-python src/generate.py
+python src\generate.py
 ```
 
 - For MSA to Maghrebi dialects
 ```python
-python src/generate_inverse.py
+python src\generate_inverse.py
 ```
 
