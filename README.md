@@ -34,5 +34,30 @@ Install the requirements:
 ```python
 pip install -r requirements.txt
 ```
+Training the Model (our proposed approach for Maghrebi dialects to MSA)
 
+```python
+python train.py
+```
+### Training
+Training the Model (our proposed approach for MSA to Maghrebi dialects)
+
+```python
+python train_inverse.py
+```
+Same for train_enc.py, train_enc_inverse.py, train_dec.py, train_dec_inverse.py.
+
+### Generation
+
+Generate translation based on the saved models using generate.py file using greedy decoding methodology
+
+- For Maghrebi dialects to MSA
+```python
+python generate.py
+```
+
+- For MSA to Maghrebi dialects
+```python
+python generate.py
+```
 
