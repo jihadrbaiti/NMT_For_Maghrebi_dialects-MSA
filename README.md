@@ -20,6 +20,19 @@ Create an anaconda environment with Python version 3.8.13
 
 ```python
 
-!conda create -n nmt_ar python=3.8.13
+conda create -n nmt_ar python=3.8.13
 ```
+Activate the environment using:
+```python
+conda activate nmt_ar
+```
+Once your environment is activated, install pip version 22.1.12 using:
+```python
+pip install pip==22.1.12
+```
+Install the requirements:
+```python
+pip install -r requirements.txt
+```
+
 
