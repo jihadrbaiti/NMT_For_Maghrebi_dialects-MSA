@@ -16,3 +16,5 @@
 <ul>pip install safetensors==0.3.0</ul>
 </ol>
 -->
+```bash
+conda create -n nmt_ar python=3.8.13
