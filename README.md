@@ -49,4 +49,4 @@ python src/generate.py
 ```python
 python src/generate_inverse.py
 ```
-
+ [Link](https://huggingface.co/Jihad-Rbaiti/NMT_For_Maghrebi_dialects-MSA) to Hugging face
